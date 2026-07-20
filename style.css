@@ -2,7 +2,7 @@
     background-color: blue;
     display: grid;
     grid-template-colomns: auto auto auto auto;
-    grip-gap: 10px 10px;
+    grid-gap: 10px 10px;
 }
 .item{
   background-color: lightblue;
