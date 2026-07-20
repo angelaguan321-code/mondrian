@@ -1,9 +1,14 @@
 .container{
-    background-color: blue;
+    background-color: lightblue;
     display: grid;
     grid-template-columns: auto auto auto auto;
     grid-gap: 10px 10px;
 }
 .item{
-  background-color: lightblue;
+    background-color: blue;
+    color: white;
+    font-size: 30px;
+    padding: 10px;
+    text-align: center;
+    font-family: 'Montserrat', sans serif;
 }
