@@ -105,6 +105,8 @@
     grid-row-end: 7;
 }
 .box13{
+    background-color: teal;
+    color: teal;
     grid-column-start: 3;
     grid-column-end: 5;
     grid-row-start: 6;
@@ -119,6 +121,8 @@
     grid-row-end: 7;
 }
 .box15{
+    background-color: purple;
+    color: purple;
     grid-column-start: 2;
     grid-column-end: 4;
     grid-row-start: 5;
