@@ -40,7 +40,7 @@
 }
 .box4{
     background-color: lightblue;
-    color: blue;
+    color: lightblue;
     grid-row-start: 3;
     grid-row-end: 4;
     grid-column-start: 4;
@@ -56,6 +56,7 @@
 }
 .box6{
     background-color: black;
+    color: black;
     grid-row-start: 2;
     grid-row-end: 5;
     grid-column-start: 1;
