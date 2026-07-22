@@ -1,8 +1,8 @@
 .container{
     background-color: black;
     display: grid;
-    grid-template-columns: auto auto auto auto auto auto;
-    grid-template-rows: auto auto auto auto auto auto;
+    grid-template-columns: 100px 25px auto 300px 50px auto;
+    grid-template-rows: 10px auto 50px 200px auto 150px;
     grid-gap: 10px 10px;
     height: 650px;
 }
@@ -19,16 +19,16 @@
     grid-column-end: 3;
 }
 .box2{
-    
+    grid-column-start
 }
 .box3{
-    
+    grid-column-start
 }
 .box4{
-    
+    grid-column-start
 }
 .box5{
-    
+    grid-column-start
 }
 .box6{
     grid-row-start: 2;
@@ -37,22 +37,25 @@
     grid-column-end: 4;
 }
 .box7{
-    
+    grid-column-start
 }
 .box8{
-    
+    grid-column-start
 }
 .box9{
     background-color: red;
+    color: red;
+    grid-column-start
 }
 .box10{
-    
+    grid-column-start
 }
 .box11{
-
+    grid-column-start
 }
 .box12{
     background-color: blue;
+    color: blue;
     grid-column-start: 2;
     grid-column-end: 5;
 }
