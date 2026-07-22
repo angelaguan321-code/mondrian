@@ -45,11 +45,11 @@
     grid-column-end: 7;
 }
 .box5{
-    background-color: black;
+    background-color: green; 
     grid-column-start: 4;
     grid-column-end: 5;
     grid-row-start: 1;
-    grid-row-end: 3;
+    grid-row-end: 2;
 }
 .box6{
     background-color: black;
@@ -83,11 +83,13 @@
 .box10{
     background-color: black;
     grid-column-start: 5;
-    grid-column-start: 6;
+    grid-column-end: 6;
     grid-row-start: 4;
     grid-row-end: 5;
 }
 .box11{
+    background-color: lightyellow;
+    color: lightyellow;
     grid-column-start: 6;
     grid-column-end: 7;
     grid-row-start: 4;
@@ -102,10 +104,10 @@
     grid-row-end: 7;
 }
 .box13{
-    grid-column-start: ;
-    grid-column-end: ;
-    grid-row-start: ;
-    grid-row-end: ;
+    grid-column-start: 3;
+    grid-column-end: 5;
+    grid-row-start: 6;
+    grid-row-end: 7;
 }
 .box14{
     grid-column-start: ;
