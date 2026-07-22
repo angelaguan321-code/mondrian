@@ -45,11 +45,11 @@
     grid-column-end: 7;
 }
 .box5{
-    background-color: lightgreen;
-    grid-column-start: ;
-    grid-column-end: ;
-    grid-row-start: ;
-    grid-row-end: ;
+    background-color: black;
+    grid-column-start: 4;
+    grid-column-end: 5;
+    grid-row-start: 1;
+    grid-row-end: 3;
 }
 .box6{
     grid-row-start: ;
