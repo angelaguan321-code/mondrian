@@ -48,21 +48,28 @@
     grid-column-end: 4;
 }
 .box7{
-    grid-column-start
+    grid-column-start: 2;
+    grid-column-end: 6;
 }
 .box8{
-    grid-column-start
+    grid-row-start: 4;
+    gird-row-end: 6;
 }
 .box9{
     background-color: red;
     color: red;
-    grid-column-start
+    grid-row-start: 1;
+    grid-row-end: 2;
 }
 .box10{
-    grid-column-start
+    grid-column-start: 1;
+    grid-column-start: 4;
 }
 .box11{
-    grid-column-start
+    grid-column-start: 3;
+    grid-column-end: 5;
+    grid-row-start: 5;
+    grid-row-end: 6;
 }
 .box12{
     background-color: blue;
