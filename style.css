@@ -1,8 +1,8 @@
 .container{
     background-color: black;
     display: grid;
-    grid-template-columns: 125px 75px auto 175px 100px auto;
-    grid-template-rows: 75px auto 50px 100px auto 125px;
+    grid-template-columns: 150px 100px auto 175px 130px auto;
+    grid-template-rows: 75px 100px 110px 125px 80px 125px;
     grid-gap: 10px 10px;
     height: 750px;
 }
@@ -22,8 +22,8 @@
 }
 .box2{
     background-color: pink;
-    grid-column-start: 3;
-    grid-column-end: 5;
+    grid-column-start: 4;
+    grid-column-end: 6;
 }
 .box3{
     grid-row-start: 1;
