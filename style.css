@@ -8,7 +8,7 @@
 }
 .item{
     background-color: white;
-    color: black;
+    color: white;
     font-size: 30px;
     padding: 10px;
     text-align: center;
@@ -39,6 +39,8 @@
     grid-column-end: 7;
 }
 .box4{
+    background-color: lightblue;
+    color: blue;
     grid-row-start: 3;
     grid-row-end: 4;
     grid-column-start: 4;
@@ -89,8 +91,6 @@
     grid-row-end: 5;
 }
 .box11{
-    background-color: lightblue;
-    color: lightblue;
     grid-column-start: 6;
     grid-column-end: 7;
     grid-row-start: 4;
@@ -129,7 +129,7 @@
     grid-row-end: 6;
 }
 .box16{
-    background-color: #000080
+    background-color: #000080;
     color: #000080;
     grid-column-start: 5;
     grid-column-end: 6;
