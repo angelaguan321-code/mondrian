@@ -3,12 +3,12 @@
     display: grid;
     grid-template-columns: 150px 100px auto 175px 130px auto;
     grid-template-rows: 75px 100px 110px 125px 80px 125px;
-    grid-gap: 10px 10px;
+    grid-gap: 15px 15px;
     height: 750px;
 }
 .item{
     background-color: white;
-    color: white;
+    color: black;
     font-size: 30px;
     padding: 10px;
     text-align: center;
@@ -19,11 +19,15 @@
     color: yellow;
     grid-column-start: 1;
     grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 1;
 }
 .box2{
     background-color: pink;
-    grid-column-start: 4;
-    grid-column-end: 6;
+    grid-column-start: 3;
+    grid-column-end: 4;
+    grid-row-start: 1;
+    grid-row-end: 4;
 }
 .box3{
     grid-row-start: 1;
