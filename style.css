@@ -33,16 +33,16 @@
 .box3{
     background-color: lightgreen;
     color: lightgreen;
-    grid-row-start: 5;
-    grid-row-end: 7;
-    grid-column-start: 1;
-    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 3;
+    grid-column-start: 5;
+    grid-column-end: 7;
 }
 .box4{
-    grid-row-start: ;
-    grid-row-end: ;
-    grid-column-start: ;
-    grid-column-end: ;
+    grid-row-start: 3;
+    grid-row-end: 4;
+    grid-column-start: 4;
+    grid-column-end: 7;
 }
 .box5{
     background-color: lightgreen;
