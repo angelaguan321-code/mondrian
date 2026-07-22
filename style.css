@@ -73,11 +73,11 @@
     grid-column-end: 4;
 }
 .box9{
-    background-color: red;
-    grid-row-start: ;
-    grid-row-end: ;
-    grid-column-start: ;
-    grid-column-end: ;
+    background-color: #B19CD9;
+    grid-row-start: 4;
+    grid-row-end: 6;
+    grid-column-start: 4;
+    grid-column-end: 5;
 }
 .box10{
     grid-column-start: ;
