@@ -23,16 +23,16 @@
     grid-row-end: 1;
 }
 .box2{
-    background-color: pink;
-    color: pink;
+    background-color: red;
+    color: red;
     grid-column-start: 3;
     grid-column-end: 4;
     grid-row-start: 1;
     grid-row-end: 4;
 }
 .box3{
-    background-color: lightgreen;
-    color: lightgreen;
+    background-color: blue;
+    color: blue;
     grid-row-start: 1;
     grid-row-end: 3;
     grid-column-start: 5;
@@ -47,8 +47,8 @@
     grid-column-end: 7;
 }
 .box5{
-    background-color: green;
-    color: green;
+    background-color: pink;
+    color: pink;
     grid-column-start: 4;
     grid-column-end: 5;
     grid-row-start: 2;
@@ -77,8 +77,8 @@
     grid-column-end: 4;
 }
 .box9{
-    background-color: #B19CD9;
-    color: #B19CD9;
+    background-color: yellow;
+    color: yellow;
     grid-row-start: 4;
     grid-row-end: 6;
     grid-column-start: 4;
@@ -114,16 +114,16 @@
     grid-row-end: 7;
 }
 .box14{
-    background-color: orange;
-    color: orange;
+    background-color: red;
+    color: red;
     grid-column-start: 6;
     grid-column-end: 7;
     grid-row-start: 5;
     grid-row-end: 7;
 }
 .box15{
-    background-color: purple;
-    color: purple;
+    background-color: pink;
+    color: pink;
     grid-column-start: 2;
     grid-column-end: 4;
     grid-row-start: 5;
